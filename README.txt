@@ -1,7 +1,7 @@
-Magne Alver 940712-1137
-Niklas Bernhardtz 920427-1937
-Fredrik Hultengren 930526-5390
-Anton Wedberg xxxxxxxxx
+Magne Alver
+Niklas Bernhardtz 
+Fredrik Hultengren 
+Anton Wedberg 
 
 Kompileras med: javac client\main\runProg.java
 Körs via: java -classpath server\util\drivrutin.jar;. client.main.runProg
