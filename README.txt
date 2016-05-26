@@ -4,7 +4,7 @@ Fredrik Hultengren 930526-5390
 Anton Wedberg xxxxxxxxx
 
 Kompileras med: javac client\main\runProg.java
-Körs via: java -classpath drivrutin.jar;. client.main.runProg
+Körs via: java -classpath server\util\drivrutin.jar;. client.main.runProg
 
 Vi använder Sqlite-drivrutin som är omdöpt till "Drivrutin".
 Databasen är omdöpt till "Databas".
